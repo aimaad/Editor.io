@@ -7,9 +7,7 @@
 
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
-<div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
-</div>
+
 
 ### Features:
 
@@ -21,9 +19,6 @@
 
 ## Online Markdown editor for generating Readme Files
 
-<div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
-</div>
 
 ## Features
 
